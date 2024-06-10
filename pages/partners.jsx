@@ -32,12 +32,12 @@ Lexuder Arkadaşlarınızla Sohbet edip oyun oynayıp eğlenebileceğiniz mükem
 
 
                             <div className="flex flex-col justify-center text-white rounded">
-            <a href="https://codeshare.me/partners/64db583a4292ca1066ad0a1b">
+            <a href="https://discord.gg/8Sn2eZapP9">
                         <div className="flex-1 gap-x-4 flex items-center bg-gradient-to-b from-neutral-900/80 to-neutral-900/20 p-3 rounded-full">
                             <img className="rounded-full h-32 w-32" src="https://i.imgur.com/09kxsMD.png" />
                             <div>
                                 <h1 className="leading-none text-3xl font-bold text-white"></h1>        
-                                <div className="flex items-center mt-1">Lexuder NW
+                                <div className="flex items-center mt-1">LexuderNW
                                     <p className="font-normal font-sm">
                                    Minecraft mı oynnuyorsun o zaman seni Minecraft Sunucusuna bekleriz! Eğlenmek için En iyi yerin!
                                     </p>
