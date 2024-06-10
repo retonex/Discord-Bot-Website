@@ -22,7 +22,7 @@ Kendi sunucunuzu Xeras ile yönetmeye ne dersiniz? Kendi özgür dünyanızı ya
                   "flex items-center px-6 justify-center gap-x-2 shadow-lg shadow-amber-600/20 rounded-xl py-4 font-medium bg-gradient-to-bl from-amber-700 to-amber-500 hover:opacity-80 transition duration-200 text-white " 
                 }
               >
-          Xeras'ı Davet et
+          İnvite Xeras
               </a>
             </Link>
   <div className="py-10"></div>
