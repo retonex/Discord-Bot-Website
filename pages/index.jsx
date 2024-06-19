@@ -13,7 +13,7 @@ export default function Index() {
           Xeras
         </p>
         <p className="animateHeader text-white text-opacity-50 text-center mt-5">
-Kendi sunucunuzu Xeras ile yönetmeye ne dersiniz? Kendi özgür dünyanızı yaratın ve kendi çalma listenizi oluşturun, bu keyfi en iyi seslerle yaşayın.	  </p>
+Kendi sunucunuzu Xeras ile yönetmeye ne dersiniz? Sistemleri ayarladıktan sonra kim size üstünlük kurabilir ki ? Hemen Bugün Ekle ve Dene!	  </p>
         <div className="animateHeader mt-10 flex flex-wrap items-center justify-center gap-x-4">
   
             <Link href={"https://discord.com/oauth2/authorize?client_id=1231707307075698840"}>
@@ -22,7 +22,7 @@ Kendi sunucunuzu Xeras ile yönetmeye ne dersiniz? Kendi özgür dünyanızı ya
                   "flex items-center px-6 justify-center gap-x-2 shadow-lg shadow-amber-600/20 rounded-xl py-4 font-medium bg-gradient-to-bl from-amber-700 to-amber-500 hover:opacity-80 transition duration-200 text-white " 
                 }
               >
-          İnvite Xeras
+          Xeras'ı Davet Et
               </a>
             </Link>
   <div className="py-10"></div>
